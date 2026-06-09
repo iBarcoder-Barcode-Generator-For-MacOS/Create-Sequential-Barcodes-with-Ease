@@ -17,10 +17,11 @@ iBarcoder is a software for creating barcodes of various types for inventory, pr
 ## iBarcoder - barcode and label maker
 
 
-
+<br>
 <div align="center">
 <img src="https://www.cristallight.com/Images/iBarcoder/barcode_label.png" alt="iBarcoder Screen " width="800" >
 </div>
+<br>
 
 
 
